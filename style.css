@@ -1,0 +1,26 @@
+h1 {
+	color: red;
+    text-align: center;
+}
+
+h2 {
+	color: yellow;
+    text-align: center;
+}
+h3 {
+     color: blue;
+     text-align: left;
+     vertical-align: bottom;
+}
+a.type1 {color:red;text-decoration: none;}
+a.type1:visited {color: blue; text-decoration: underline;}
+body {
+	background-image:url(montagne.jpg);
+	background-repeat:no-repeat;
+	background-color: yellow;
+	#btn {
+		font-size: 25px;
+		button:center;
+
+	}
+}
